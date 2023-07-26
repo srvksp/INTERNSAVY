@@ -1,0 +1,108 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name - Personal Website</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #F2F5ED;
+        }
+
+        header {
+            background-color: #000;
+            color: #fff;
+            text-align: center;
+            padding: 1rem;
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 2rem;
+        }
+
+        nav {
+            background-color: #444;
+            text-align: center;
+            padding: 0.5rem 0;
+        }
+
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            padding: 0.5rem 1rem;
+        }
+
+        nav a:hover {
+            background-color: #666;
+        }
+
+        section {
+            max-width: 800px;
+            margin: auto;
+            padding: 2rem;
+        }
+
+        footer {
+            text-align: center;
+            padding: 1rem;
+            background-color: #333;
+            color: #fff;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>Saurav Kashyap</h1>
+    </header>
+
+    <nav>
+        <a href="#about">About</a>
+        <a href="#skills">Skills</a>
+        <a href="#interests">Interests</a>
+      
+    </nav>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>
+           
+            Hi, I'm Saurav Kashyap, and I'm currently pursuing MCA from Sarla Birla University.
+            
+        </p>
+    </section>
+
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>Team Work</li>
+            <li>Hard Working</li>
+
+            <li>Always Ready to Learn
+        </ul>
+    </section>
+
+    <section id="interests">
+        <h2>Interests</h2>
+        <p>
+            
+            In my free time, I enjoy to explore new things,read and gather knowledge about the new technologies .
+            
+        </p>
+    </section>
+
+
+    <footer>
+        Email: sauravkashyap304@gmail.com | Twitter: @srvksp2109
+    </footer>
+</body>
+
+</html>
